@@ -8,12 +8,3 @@ meteor-platform
 accounts-ui
 accounts-password
 accounts-facebook
-accounts-twitter
-urigo:angular
-urigo:angular-utils-pagination
-twbs:bootstrap
-angularui:angular-ui-router
-angularui:angular-google-maps
-tmeasday:publish-counts
-email
-less
